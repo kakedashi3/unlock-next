@@ -1,6 +1,6 @@
 export const paywallConfig: Record<string, unknown> = {
   locks: {
-    "0x77d11b698808eef99e32d3273dc88cc34097786f": {
+    "0xb6677da1c5c52208301ce35bd8a91e502bf58c43": {
       network: 5,
       name: "wonderwomancode",
     },
